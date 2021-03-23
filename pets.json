@@ -1,0 +1,466 @@
+[
+ {
+   "microchip": "97810108191876",
+   "species": "FELINO",
+   "sex": "HEMBRA",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900032001933212",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900113000007963",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "MEDIANO",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900113000009612",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900113000295781",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900113000295784",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900113000295907",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "MUY GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900113000295909",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900113000295917",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "MEDIANO",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900113000295919",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "MUY GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900113000295920",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900113000295929",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900113000295962",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "MINIATURA",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900113000422515",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "MEDIANO",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900113000422561",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900113000422579",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "MINIATURA",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900113000447440",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900118000412478",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900164000577889",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900164001219612",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900250000247451",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "MEDIANO",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900250000247458",
+   "species": "FELINO",
+   "sex": "MACHO",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900250000247467",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900250000247787",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "MEDIANO",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900250000269512",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "900250000291856",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "USAQUEN"
+ },
+ {
+   "microchip": "978101081927498",
+   "species": "FELINO",
+   "sex": "MACHO",
+   "size": "MINIATURA",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927540",
+   "species": "FELINO",
+   "sex": "MACHO",
+   "size": "MINIATURA",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927541",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927545",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "GRANDE",
+   "potentDangerous": "SI",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927584",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927601",
+   "species": "FELINO",
+   "sex": "MACHO",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927605",
+   "species": "FELINO",
+   "sex": "HEMBRA",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927615",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927640",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927662",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927670",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "MEDIANO",
+   "potentDangerous": "SI",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927682",
+   "species": "FELINO",
+   "sex": "HEMBRA",
+   "size": "MEDIANO",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927692",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927704",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "MEDIANO",
+   "potentDangerous": "SI",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927706",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "MEDIANO",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927710",
+   "species": "FELINO",
+   "sex": "HEMBRA",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927712",
+   "species": "FELINO",
+   "sex": "HEMBRA",
+   "size": "MEDIANO",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927758",
+   "species": "FELINO",
+   "sex": "HEMBRA",
+   "size": "MEDIANO",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927769",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927776",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "GRANDE",
+   "potentDangerous": "SI",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927794",
+   "species": "FELINO",
+   "sex": "HEMBRA",
+   "size": "MEDIANO",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927805",
+   "species": "FELINO",
+   "sex": "HEMBRA",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927821",
+   "species": "FELINO",
+   "sex": "MACHO",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927823",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927837",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "GRANDE",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927860",
+   "species": "CANINO",
+   "sex": "MACHO",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927869",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927908",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927909",
+   "species": "FELINO",
+   "sex": "MACHO",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927914",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "MEDIANO",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927929",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "PEQUE�O",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ },
+ {
+   "microchip": "978101081927931",
+   "species": "CANINO",
+   "sex": "HEMBRA",
+   "size": "MEDIANO",
+   "potentDangerous": "NO",
+   "neighborhood": "SUBA"
+ }
+]

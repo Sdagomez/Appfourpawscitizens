@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Appfourpawscitizens</title>
+    <link href="Style.css" / type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Spartan&display=swap" rel="stylesheet">
+    
+
+</head>
+
+<body>
+    <nav>
+        <H1 align="center">Appfourpawscitizens</H1>
+        <hr>
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="paginatabla.html">Records</a></li>
+            <li><a href="createAnimal.html">Create</a></li>
+            <li><a href="update.html">About us </li>
+            <li><a href="#">update</a></li>
+           
+        </ul>
+
+    </nav>
+
+    <div>
+        <h2> Tabla de registros de animales</h2>
+
+    </div>
+    <br>
+    <br>
+    <div class="container">
+        <div class="selection">
+            <button class="btn" id="boton">Actualizar</button>
+            
+             <table id="ejemplo">
+                 <thead>    
+                    <tr>
+                        <th>Microchip</th>
+                        <th>Species</th>
+                         <th>Sex</th>
+                         <th>Size</th>
+                        <th>PotentDangerous</th>
+                        <th>Neighborhood</th>
+                    </tr>
+                  </thead>
+
+                  <tbody id="res">
+                    </tbody>    
+             </table>
+            <label for="Name" id="bus ">Filtrar</label>
+
+            <input class="busqueda" type="text" name="Busqueda" id="busqueda" placeholder="Filtrado">
+        </div>
+    </div>
+    <script src='createAnimal.js'></script>
+    <script src='logic.js'></script>
+    <script src='ajax2.js'></script>
+</body>
+<!--<script src='ajax2.js'></script>-->
+</html>
